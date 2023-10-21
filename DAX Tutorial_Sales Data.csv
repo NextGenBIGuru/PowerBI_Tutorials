@@ -1,0 +1,301 @@
+Date,Product,Location,Units Sold,Unit Price
+4/12/2021,Speaker,Los Angeles,7,920.5523019
+6/10/2021,Smartwatch,Houston,21,436.4537152
+1/1/2021,Charger,Philadelphia,30,948.0444722
+8/5/2021,Laptop,Phoenix,72,978.2245104
+9/14/2021,Tablet,San Antonio,98,163.5379085
+10/21/2021,Smartwatch,San Diego,78,357.8239257
+9/10/2021,Headphones,Dallas,29,366.7529732
+12/9/2021,Charger,Houston,24,656.1049363
+6/11/2021,Mobile,San Antonio,42,476.4592683
+1/15/2021,Keyboard,Los Angeles,14,632.4021575
+9/17/2021,Headphones,San Diego,87,760.2502152
+9/23/2021,Mouse,Dallas,68,993.1656415
+3/25/2021,Charger,Phoenix,36,525.5922004
+11/13/2021,Smartwatch,Houston,96,245.0782436
+5/14/2021,Tablet,San Jose,39,734.6155089
+2/1/2021,Mobile,San Antonio,51,77.61291961
+7/19/2021,Charger,San Antonio,25,609.2072267
+3/25/2021,Tablet,San Jose,4,130.5549226
+12/31/2021,Keyboard,San Antonio,25,63.08458383
+10/20/2021,Keyboard,Houston,29,837.8587137
+5/12/2021,Charger,San Diego,10,441.3527821
+6/12/2021,Keyboard,Los Angeles,22,590.3237831
+11/16/2021,Headphones,Dallas,33,260.753129
+8/13/2021,Smartwatch,Chicago,45,74.27572728
+8/4/2021,Camera,Phoenix,25,186.6698305
+9/1/2021,Keyboard,Philadelphia,25,855.747719
+6/24/2021,Mobile,Philadelphia,28,314.5087699
+8/16/2021,Tablet,New York,55,208.5523838
+5/20/2021,Smartwatch,San Diego,94,281.2211156
+10/26/2021,Charger,San Antonio,84,937.1727955
+12/20/2021,Keyboard,Los Angeles,38,398.9350014
+7/26/2021,Keyboard,Phoenix,65,872.8053815
+9/29/2021,Headphones,Phoenix,15,195.2657881
+11/4/2021,Headphones,Dallas,55,770.0194459
+2/8/2021,Charger,New York,34,692.0058126
+4/9/2021,Smartwatch,Los Angeles,93,673.3536424
+1/24/2021,Headphones,New York,54,572.1736618
+4/7/2021,Headphones,New York,27,212.1544882
+2/19/2021,Mouse,San Jose,52,174.8944454
+4/7/2021,Tablet,Houston,91,66.26150923
+9/29/2021,Mouse,Phoenix,34,250.3462288
+1/11/2021,Charger,San Jose,44,990.3080953
+7/24/2021,Camera,Dallas,83,277.6782613
+11/16/2021,Mouse,Dallas,47,688.9256066
+1/4/2021,Headphones,Phoenix,57,843.2205753
+10/4/2021,Smartwatch,San Diego,97,220.0460334
+12/4/2021,Camera,Phoenix,86,396.1704769
+7/24/2021,Headphones,San Antonio,83,336.6871306
+12/21/2021,Laptop,San Jose,52,478.2288279
+11/5/2021,Camera,Phoenix,28,102.3068364
+11/7/2021,Camera,New York,24,380.8638076
+3/5/2021,Smartwatch,Philadelphia,68,895.4792485
+3/23/2021,Keyboard,Philadelphia,30,256.302026
+11/25/2021,Tablet,Los Angeles,58,121.8736706
+5/7/2021,Camera,Houston,42,128.194421
+2/6/2021,Charger,Phoenix,25,979.1727306
+4/6/2021,Mobile,Los Angeles,8,688.6162963
+9/9/2021,Camera,New York,45,650.9707999
+2/18/2021,Charger,San Diego,61,620.7246759
+2/22/2021,Camera,Philadelphia,37,481.7145426
+11/27/2021,Speaker,San Diego,19,620.1587044
+9/12/2021,Keyboard,San Jose,84,632.067954
+8/29/2021,Charger,Phoenix,52,921.1055199
+7/17/2021,Keyboard,Phoenix,81,897.5271713
+2/3/2021,Keyboard,Dallas,57,381.4214409
+11/27/2021,Tablet,Dallas,86,705.7823769
+1/2/2021,Speaker,Phoenix,45,874.9996873
+5/6/2021,Speaker,Los Angeles,53,150.1945558
+7/31/2021,Headphones,Dallas,85,611.9970151
+2/5/2021,Laptop,Philadelphia,72,358.6844714
+5/18/2021,Speaker,San Antonio,73,106.7982055
+10/6/2021,Smartwatch,San Diego,46,896.2353363
+6/6/2021,Keyboard,Phoenix,57,152.3079303
+9/21/2021,Charger,Chicago,3,195.3271213
+6/28/2021,Charger,San Antonio,63,191.5609136
+4/4/2021,Keyboard,San Jose,30,830.4619511
+2/12/2021,Tablet,Houston,40,758.818861
+1/25/2021,Headphones,Phoenix,83,648.4662681
+4/5/2021,Speaker,Los Angeles,52,381.9084791
+2/13/2021,Tablet,New York,55,88.66155958
+4/15/2021,Tablet,San Antonio,82,755.9186945
+8/12/2021,Keyboard,Dallas,86,440.7840246
+1/19/2021,Mouse,Phoenix,95,80.56893663
+8/16/2021,Mouse,San Jose,25,352.3674829
+1/26/2021,Tablet,San Diego,91,840.3792901
+9/4/2021,Camera,Philadelphia,72,195.4479344
+3/11/2021,Charger,Philadelphia,46,165.7588208
+3/22/2021,Speaker,San Diego,22,219.9451763
+9/30/2021,Laptop,Phoenix,24,970.9508946
+12/8/2021,Speaker,Chicago,36,329.3841004
+4/5/2021,Laptop,Phoenix,80,587.096253
+2/15/2021,Smartwatch,Dallas,79,862.0767478
+7/6/2021,Laptop,Philadelphia,77,174.1841535
+5/4/2021,Mobile,San Antonio,13,672.6896027
+6/17/2021,Charger,Chicago,77,140.9986196
+1/3/2021,Camera,Los Angeles,51,874.4472428
+8/27/2021,Speaker,San Jose,46,478.3037876
+11/22/2021,Headphones,Phoenix,5,108.4454812
+3/23/2021,Mobile,San Antonio,93,416.171183
+11/15/2021,Mobile,Houston,96,96.3205962
+8/12/2021,Keyboard,San Jose,24,905.9083463
+2/25/2021,Smartwatch,Phoenix,50,409.4576471
+12/7/2021,Tablet,Chicago,87,267.0306426
+1/10/2021,Speaker,New York,56,266.3954546
+12/23/2021,Tablet,San Diego,50,569.0079629
+7/21/2021,Smartwatch,Chicago,77,905.9586164
+5/30/2021,Mobile,New York,99,459.1771001
+12/25/2021,Smartwatch,San Antonio,89,248.5236742
+6/1/2021,Camera,Dallas,50,786.9437018
+10/14/2021,Camera,New York,71,321.9839805
+5/31/2021,Tablet,Dallas,57,140.3957319
+1/6/2021,Headphones,San Diego,18,454.5010766
+1/8/2021,Tablet,San Jose,29,642.3722441
+4/15/2021,Laptop,New York,38,140.7486378
+7/13/2021,Headphones,Philadelphia,75,523.82031
+3/8/2021,Charger,Philadelphia,71,477.1694843
+12/5/2021,Charger,Chicago,24,989.7751316
+1/23/2021,Speaker,Chicago,25,237.542771
+12/20/2021,Keyboard,New York,40,872.2166359
+5/15/2021,Mobile,San Diego,52,709.2828626
+4/22/2021,Keyboard,Los Angeles,45,94.3363745
+1/11/2021,Speaker,San Jose,84,789.5735067
+10/26/2021,Speaker,San Diego,80,519.9767717
+3/18/2021,Charger,Dallas,38,426.9428648
+9/19/2021,Smartwatch,Dallas,8,417.0493502
+1/21/2021,Tablet,Phoenix,54,993.8155916
+8/11/2021,Mouse,Chicago,87,608.3279262
+4/23/2021,Mobile,Phoenix,78,579.3694579
+10/9/2021,Speaker,San Jose,87,212.5336619
+4/22/2021,Charger,New York,57,323.1001548
+1/6/2021,Mobile,San Antonio,10,415.9661624
+2/24/2021,Headphones,Los Angeles,98,576.1068458
+10/29/2021,Headphones,New York,54,723.8406773
+6/16/2021,Headphones,San Antonio,85,335.7193321
+7/22/2021,Keyboard,Chicago,35,82.84295667
+3/24/2021,Headphones,Chicago,7,467.6230459
+8/29/2021,Mouse,Chicago,18,64.18368586
+7/31/2021,Headphones,San Diego,73,884.7100986
+4/25/2021,Charger,Houston,87,163.1392655
+6/1/2021,Keyboard,San Jose,23,902.4023532
+1/14/2021,Laptop,New York,37,177.2168068
+4/2/2021,Charger,Philadelphia,62,666.3760616
+6/24/2021,Mobile,Chicago,66,427.8834598
+6/21/2021,Camera,Phoenix,6,212.184853
+4/16/2021,Keyboard,New York,98,592.8195428
+7/12/2021,Mobile,Philadelphia,80,724.7574009
+8/15/2021,Laptop,San Antonio,54,374.2379973
+7/22/2021,Keyboard,San Jose,92,837.1383213
+10/24/2021,Headphones,Houston,56,180.4643376
+11/23/2021,Smartwatch,San Diego,45,67.15463579
+6/6/2021,Mobile,Philadelphia,61,885.2770843
+3/28/2021,Charger,Dallas,50,302.8096608
+6/1/2021,Headphones,Houston,76,81.6908768
+4/11/2021,Charger,Chicago,30,425.3881881
+2/19/2021,Charger,Dallas,85,870.9606326
+3/23/2021,Tablet,San Antonio,80,727.8693346
+1/12/2021,Smartwatch,Chicago,52,669.7215463
+3/29/2021,Headphones,Houston,85,536.7310248
+12/29/2021,Smartwatch,Houston,77,616.5849114
+10/9/2021,Smartwatch,Chicago,21,401.6501156
+8/6/2021,Mobile,Dallas,43,409.7931949
+12/16/2021,Mouse,San Diego,60,193.9608665
+5/23/2021,Mobile,Philadelphia,15,87.29329575
+2/15/2021,Headphones,San Antonio,81,963.6927167
+7/24/2021,Tablet,Dallas,14,438.0360408
+7/28/2021,Mobile,Philadelphia,10,128.3914165
+2/18/2021,Headphones,San Jose,82,530.876624
+11/12/2021,Camera,Phoenix,23,96.89911543
+5/2/2021,Speaker,Dallas,41,203.3248631
+8/21/2021,Headphones,Chicago,78,450.7496694
+10/26/2021,Mobile,San Antonio,94,829.7002641
+1/22/2021,Camera,New York,76,525.3779772
+6/11/2021,Camera,Los Angeles,8,991.6514138
+9/11/2021,Laptop,Los Angeles,36,899.6122635
+3/8/2021,Mouse,San Jose,62,255.5784843
+4/4/2021,Keyboard,San Diego,92,983.5743342
+3/11/2021,Laptop,San Antonio,89,642.5583136
+9/23/2021,Keyboard,Houston,45,996.2799303
+7/14/2021,Camera,Chicago,60,797.848072
+6/30/2021,Keyboard,Phoenix,60,893.3383453
+4/5/2021,Mobile,San Diego,39,171.327907
+12/14/2021,Camera,Chicago,19,199.7024627
+2/14/2021,Charger,Dallas,77,57.61762786
+2/23/2021,Smartwatch,Phoenix,36,725.4367276
+3/5/2021,Speaker,Dallas,74,253.0487428
+4/21/2021,Mobile,San Diego,97,199.020879
+7/31/2021,Smartwatch,Houston,1,772.1414018
+7/8/2021,Mobile,Phoenix,23,788.4984455
+6/5/2021,Mouse,Chicago,32,613.868558
+6/19/2021,Mobile,New York,69,229.8597603
+8/26/2021,Laptop,Dallas,42,441.726653
+7/31/2021,Headphones,San Antonio,100,577.2348453
+6/23/2021,Keyboard,Dallas,26,459.6574633
+10/11/2021,Smartwatch,San Diego,26,422.660109
+5/3/2021,Speaker,San Antonio,74,313.0353248
+8/1/2021,Speaker,San Antonio,47,325.8965746
+6/16/2021,Headphones,Houston,100,186.3073682
+4/16/2021,Mobile,Dallas,35,279.5806585
+11/27/2021,Keyboard,Philadelphia,96,427.9302364
+6/20/2021,Headphones,Dallas,83,110.1997904
+2/26/2021,Mobile,Phoenix,14,835.0697169
+2/11/2021,Speaker,Dallas,67,531.6232667
+6/27/2021,Mouse,Houston,94,781.0739059
+7/4/2021,Charger,Chicago,26,186.1762082
+9/1/2021,Laptop,Los Angeles,57,216.2315635
+8/28/2021,Laptop,Dallas,56,476.038999
+12/26/2021,Headphones,Los Angeles,89,514.2243209
+4/24/2021,Laptop,Houston,55,666.9778368
+12/4/2021,Speaker,San Diego,39,503.2549452
+7/10/2021,Camera,New York,8,302.9092241
+10/25/2021,Smartwatch,San Diego,26,87.93565096
+7/26/2021,Smartwatch,Phoenix,60,517.2262317
+6/25/2021,Speaker,Dallas,39,669.1001116
+3/31/2021,Tablet,Philadelphia,27,669.2995865
+1/7/2021,Keyboard,San Antonio,77,894.6012229
+10/10/2021,Mouse,San Antonio,67,286.6168198
+1/31/2021,Smartwatch,Dallas,30,275.4315624
+4/20/2021,Charger,San Diego,32,547.2289107
+9/29/2021,Tablet,San Diego,31,625.8149317
+11/3/2021,Headphones,Houston,70,200.607004
+10/24/2021,Laptop,San Jose,28,518.7734042
+3/14/2021,Speaker,Houston,8,584.5336098
+2/4/2021,Mobile,Dallas,7,985.2647485
+1/26/2021,Laptop,Los Angeles,84,652.9531842
+8/15/2021,Charger,Philadelphia,20,748.0620891
+3/11/2021,Mobile,Houston,24,214.2094944
+5/30/2021,Headphones,Chicago,38,71.74365352
+10/28/2021,Tablet,New York,30,395.8768152
+4/11/2021,Mouse,Houston,100,863.7457428
+1/26/2021,Camera,San Jose,1,967.3451168
+3/12/2021,Mouse,Houston,91,520.1453253
+12/3/2021,Headphones,Los Angeles,69,534.5670953
+7/8/2021,Laptop,San Diego,85,706.6165962
+7/22/2021,Mouse,Houston,49,375.7777287
+11/24/2021,Speaker,San Diego,70,405.5397398
+3/13/2021,Mobile,Phoenix,46,676.4451798
+11/24/2021,Headphones,San Antonio,4,476.151745
+8/23/2021,Keyboard,Dallas,94,372.3406671
+9/8/2021,Camera,San Antonio,92,95.97791096
+7/12/2021,Speaker,Houston,72,424.0721144
+12/9/2021,Camera,Chicago,26,842.9244836
+5/27/2021,Headphones,Los Angeles,25,956.6259038
+5/17/2021,Mouse,Dallas,6,243.4954579
+3/20/2021,Keyboard,San Diego,41,656.4779248
+8/13/2021,Laptop,Philadelphia,18,702.6169979
+7/24/2021,Charger,San Jose,29,459.7953139
+9/10/2021,Charger,Phoenix,92,844.1508706
+12/26/2021,Tablet,San Diego,71,514.016494
+10/13/2021,Keyboard,New York,8,252.7197339
+1/4/2021,Headphones,San Antonio,51,182.9410096
+6/10/2021,Mouse,Phoenix,40,483.7805203
+6/9/2021,Keyboard,Houston,3,91.52535532
+2/22/2021,Camera,New York,25,716.4509527
+1/11/2021,Smartwatch,San Jose,67,364.9628012
+1/20/2021,Tablet,San Antonio,92,827.024054
+5/22/2021,Smartwatch,Chicago,24,462.3167368
+7/21/2021,Speaker,Philadelphia,12,646.2177291
+3/21/2021,Mobile,Los Angeles,32,524.4294123
+11/4/2021,Headphones,San Antonio,50,499.5737174
+4/23/2021,Mouse,San Jose,71,729.6544124
+12/26/2021,Headphones,Phoenix,70,600.3329618
+5/11/2021,Laptop,Phoenix,82,864.0466283
+9/2/2021,Tablet,San Diego,60,981.9911398
+4/12/2021,Charger,Philadelphia,67,443.4433183
+1/17/2021,Tablet,New York,53,821.8078851
+3/12/2021,Mouse,San Jose,62,160.8486131
+4/10/2021,Smartwatch,San Diego,31,937.3469155
+1/24/2021,Laptop,New York,42,56.36813316
+8/27/2021,Charger,San Antonio,82,376.342821
+7/17/2021,Mobile,San Antonio,60,800.3827766
+9/7/2021,Laptop,Dallas,33,776.0298712
+6/3/2021,Camera,Houston,50,686.9671421
+9/11/2021,Charger,San Antonio,7,328.4883664
+10/10/2021,Speaker,San Jose,29,515.9641027
+1/16/2021,Mouse,Phoenix,69,850.2608628
+5/31/2021,Mobile,San Antonio,45,924.3967978
+6/25/2021,Tablet,Dallas,14,826.571151
+3/29/2021,Charger,New York,21,527.503803
+12/30/2021,Tablet,San Jose,94,123.1997806
+5/7/2021,Laptop,New York,47,403.0024457
+3/4/2021,Mouse,San Jose,40,851.6965887
+2/26/2021,Smartwatch,Philadelphia,62,519.8680779
+10/2/2021,Mobile,Houston,53,651.4926946
+7/31/2021,Headphones,San Diego,19,992.4574788
+8/30/2021,Smartwatch,San Diego,60,617.1982021
+8/3/2021,Smartwatch,Chicago,2,427.2854533
+7/22/2021,Laptop,New York,30,537.5336104
+7/2/2021,Camera,San Jose,57,526.6569056
+12/22/2021,Tablet,San Jose,34,822.0854819
+8/10/2021,Headphones,San Diego,56,626.7438008
+2/28/2021,Headphones,New York,21,877.445269
+9/4/2021,Camera,Phoenix,57,664.5695784
+8/13/2021,Tablet,Chicago,11,582.0077702
+1/22/2021,Mobile,San Jose,7,332.3535817
+10/20/2021,Mobile,New York,95,772.6808486
+11/21/2021,Headphones,Chicago,44,245.7497934
+6/25/2021,Smartwatch,Houston,93,525.4177639
+5/12/2021,Laptop,Houston,12,158.5026697
+6/14/2021,Mouse,Philadelphia,76,936.66686
+10/21/2021,Charger,Chicago,34,903.8015182
